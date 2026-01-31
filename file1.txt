@@ -1,1 +1,2 @@
-abcd 
+GitHub is a platform for hosting and managing Git repositories in the cloud.
+It helps developers store code, track changes, and collaborate with others using features like commits, branches, and pull requests.
