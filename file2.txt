@@ -1,0 +1,2 @@
+Git branching lets you create independent lines of development so you can work on features, fixes, or experiments without affecting the main codebase.
+Branches make collaboration safer and cleaner by isolating changes until they’re ready to be merged.
